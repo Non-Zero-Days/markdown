@@ -1,10 +1,3 @@
----
-layout: post
-nav_order: 2
-excerpt: Markdown allows you to write in a plain text format which is human readable and can be consistently interpretted into other display languages. This exercise walks through using markdown.
-youtube_link: Youtube-Link.link
----
-
 # Title
 
 **Watch the video [here]({{ page.youtube_link }})**
