@@ -1,7 +1,7 @@
 
 # Title
 
-**Watch the video [here]({{ page.youtube_link }})**
+**Watch the video [here](https://youtu.be/H6JypiTJBUw)**
 
 ## Prerequisites
 
