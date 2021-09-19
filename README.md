@@ -1,3 +1,4 @@
+
 # Title
 
 **Watch the video [here]({{ page.youtube_link }})**
@@ -91,7 +92,7 @@ The clearly prioritized list
 
 ```
 
-#### Tables
+#### Table
 - Tables can be created as following
 ```md
 | header1  | header2 |
@@ -132,7 +133,7 @@ To learn more about `fruit` read [this wikipedia page](https://en.wikipedia.org/
 
 #### Images
 
-- Images can be linked per the link syntax prefixed with a `!` charcter. e.g. - `![Non-Zero Logo](https://non-zero-days.github.io/assets/images/logo.png)`
+- Images can be linked per the link syntax prefixed with a `!` character. e.g. - `![Non-Zero Logo](https://non-zero-days.github.io/assets/images/logo.png)`
 
 Let's add an image to the end of our file.
 
@@ -142,7 +143,7 @@ Let's add an image to the end of our file.
 
 To learn more about `fruit` read [this wikipedia page](https://en.wikipedia.org/wiki/Fruit).
 
-![Pomegranate](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/1024px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg)
+![Non-Zero Logo](https://non-zero-days.github.io/assets/images/logo.png)
 
 ```
 
@@ -188,7 +189,7 @@ The clearly prioritized list
 
 To learn more about `fruit` read [this wikipedia page](https://en.wikipedia.org/wiki/Fruit).
 
-![Pomegranate](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/1024px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg)
+![Non-Zero Logo](https://non-zero-days.github.io/assets/images/logo.png)
 
 ```
 
