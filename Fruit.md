@@ -23,6 +23,7 @@ The clearly prioritized list
 5. Pear
 
 ## Table
+
 | Food      | Tasty? |
 | -         | -      |
 | Apple     | Yes    |
